@@ -12,8 +12,8 @@ document.getElementById("start_button").addEventListener("mousedown", function (
         const KEY_CODE_SPACE = 32;
 
         //Game Area
-        const GAME_WIDTH = 1400;
-        const GAME_HEIGHT = 600;
+        const GAME_WIDTH = 1200;
+        const GAME_HEIGHT = 500;
 
         // Player Values : size, speed, projectile speed, projectile cooldown
         const PLAYER_WIDTH = 10;
